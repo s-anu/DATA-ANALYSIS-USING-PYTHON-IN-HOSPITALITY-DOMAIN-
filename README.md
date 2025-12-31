@@ -3,10 +3,10 @@
 
 ## Project Overview
 
-This project focuses on conducting an in-depth analysis of Atliq Grand's hotel chain data to uncover key business ingsigts such as occupancy rates and  revenue  patterns across different cities. The analysis amis to identify performance trends and opportunities that can help improve Atliq Grand's market share and overall business strategy.
+This project focuses on conducting an in-depth analysis of Atliq Grand's hotel chain data to uncover key business insights, such as occupancy rates and  revenue  patterns across different cities. The analysis aims to identify performance trends and opportunities that can help improve Atliq Grand's market share and overall business strategy.
 ## Project Objective
 
-This project aims at  Identifing the trends of revenue realized ,
+This project aims to identify the trends of revenue realized ,
 analyze occupancy rate across different cities , room categories and booking platforms and provide data-driven recommendation to improve their overall performance
 
 ## Key Business Questions
@@ -22,11 +22,11 @@ Some of the key questions explored in this project include:
 
 Presidential rooms recorded the highest average occupancy (59.28%) , while the Standard room category had the lowest(57.89%).
 
-Among all the cities, Delhi achived the highest occupancy rate (61.51%) making it the top-performing city in terms of room utilization.
+Among all the cities, Delhi achieved the highest occupancy rate (61.51%) making it the top-performing city in terms of room utilization.
 
- Weekend stays consistently showed higher occupancy compared to weekdays, indicating stroger leisure demand.
+ Weekend stays consistently showed higher occupancy compared to weekdays, indicating Stroger leisure demand.
 
-Atliq Exotica among all hotel category generated the highest total revenue,highligting its premium positioning.
+Atliq Exotica among all hotel category generated the highest total revenue, highlighting its premium positioning.
 
 Mumbai contributed the highest share of total revenue while Delhi contributed the least.
 
@@ -55,5 +55,6 @@ Makeyourtrip is the booking platform which brings in the highest revenue realize
 
 3. Maximize the weekend demand as occupancy is higher during weekend
         
-        Introduce weekend premium pricing and reduce discounds on weekends and  
-        shift offfers to weekdays.
+        Introduce weekend premium pricing and reduce discounts on weekends and  
+        shift offers to weekdays.
+s.
